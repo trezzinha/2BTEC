@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>Lugares turísticos da Europa</title>
+</head>
+<body>
+ <header>
+    <h1>Lugares turísticos da Europa</h1>
+ </header>
+ <nav>
+    <ul>
+      <li><a href="#italy">Itália</a></li>
+      <li><a href="#france">França</a></li>
+      <li><a href="#germany">Alemanha</a></li>
+      <li><a href="#spain">Espanha</a></li>
+    </ul>
+ </nav>
+ <main>
+    <section id="italy">
+      <h2>Itália</h2>
+      <p>Venecia: A famosa cidade de cima d'água no norte da Itália. Admire os seus palácios e pontes, como o Palazzo Ducale e o Ponte de Rialto.</p>
+      <p>Florença: A "Cidade das Flores" é uma das mais bonitas cidades da Itália. Confira a Basílica da Santa Maria do Fiore, a Galleria dell'Accademia e o Ponte Vecchio.</p>
+    </section>
+    <section id="france">
+      <h2>França</h2>
+      <p>Paris: A capital francesa é um dos maiores destinos turísticos do mundo. A Catedral de Notre-Dame, a Torre Eiffel e o Louvre são seus principais pontos turísticos.</p>
+      <p>Versalhes: Esta cidade-palácio foi a residência oficial dos reis da França até o século XIX. Conheça o Castelo de Versalhes, a Basílica de Notre-Dame de Versalhes e o Parc à Chasse de Versailles.</p>
+    </section>
+    <section id="germany">
+      <h2>Alemanha</h2>
+      <p>Berlim: A capital alemã é um importante centro cultural e histórico. Admire a Porta de Brandemburgo, a Torre Telefônica e a Catedral de Berlim.</p>
+      <p>Dresden: A famosa "Vila das Chocolates" é conhecida pela sua arquitetura barroca. A Gemäldegalerie Alte Meister, o Zwinger e o Schlossplatz são os principais atrativos turísticos.</p>
+    </section>
+    <section id="spain">
+      <h2>Espanha</h2>
+      <p>Madrid: A capital espanhola é uma cidade cosmopolita e movimentada. Desfrute do Retiro Park, da Plaza Mayor e da Basílica de Santa Maria de la Almudena.</p>
+      <p>Granada: Esta cidade é conhecida pelas suas cores e cultura islâmica. A Alhambra, a Basílica da Encarnação e o Tesouro da Catedral são os principais destaques turísticos.</p>
+    </section>
+ </main>
+ <aside>
+    <h2>Barra lateral</h2>
+    <p>Dica: Visite as principais cidades turísticas de cada país e descubra a riqueza cultural e histórica desses locais.</p>
+ </aside>
+ <footer>
+    <p>&copy; 2021 Lugares turísticos da Europa.</p>
+ </footer>
+
+</body>
+</html>
