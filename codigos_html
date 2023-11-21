@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>Exemplo de separação de conteúdo</title>
+</head>
+<body>
+ <header>
+    <h1>Cabeçalho</h1>
+ </header>
+ <nav>
+    <ul>
+      <li><a href="#">Início</a></li>
+      <li><a href="#">Sobre</a></li>
+      <li><a href="#">Contato</a></li>
+    </ul>
+ </nav>
+ <main>
+    <article>
+      <h2>Título do artigo</h2>
+      <p>Conteúdo do artigo...</p>
+    </article>
+    <section>
+      <h2>Título da seção</h2>
+      <p>Conteúdo da seção...</p>
+    </section>
+ </main>
+ <aside>
+    <h2>Barra lateral</h2>
+    <p>Conteúdo da barra lateral...</p>
+ </aside>
+ <footer>
+    <p>&copy; 2021 Exemplo de separação de conteúdo.</p>
+ </footer
